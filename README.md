@@ -6,20 +6,20 @@
 
 ### Data Description
 
-| Variable | Definition |
-| -------- | ---------- |
-| id |	Unique ID for the customer |
-| Gender |	Gender of the customer |
-| Age |	Age of the customer |
-| Driving_License |	0 : Customer does not have Driving License, <br> 1 : Customer already has Driving License |
-| Region_Code |	Unique code for the region of the customer |
-| Previously_Insured |	1 : Customer already has Vehicle Insurance, <br> 0 : Customer doesn't have Vehicle Insurance
-| Vehicle_Age |	Age of the Vehicle |
-| Vehicle_Damage |	1 : Customer got his/her vehicle damaged in the past. <br> 0 : Customer did not get his/her vehicle damaged in the past. |
-| Annual_Premium |	The amount customer needs to pay as premium in the year |
-| PolicySalesChannel |	Anonymized Code for the channel of outreaching to the customer ie <br> Different Agents, Over Mail, Over Phone, In Person, etc. |
-| Vintage |	Number of Days, Customer has been associated with the company |
-| Response |	1 : Customer is interested, <br> 0 : Customer is not interested |
+| Variable            | Definition                                                                 |
+| ------------------- | -------------------------------------------------------------------------- |
+| id                  | Unique ID for the customer                                                 |
+| Gender              | Gender of the customer                                                     |
+| Age                 | Age of the customer                                                        |
+| Driving_License     | 0 : Customer does not have Driving License, <br> 1 : Customer already has Driving License |
+| Region_Code         | Unique code for the region of the customer                                 |
+| Previously_Insured  | 1 : Customer already has Vehicle Insurance, <br> 0 : Customer doesn't have Vehicle Insurance |
+| Vehicle_Age         | Age of the Vehicle                                                         |
+| Vehicle_Damage      | 1 : Customer got his/her vehicle damaged in the past. <br> 0 : Customer did not get his/her vehicle damaged in the past. |
+| Annual_Premium      | The amount customer needs to pay as premium in the year                    |
+| PolicySalesChannel  | Anonymized Code for the channel of outreaching to the customer ie <br> Different Agents, Over Mail, Over Phone, In Person, etc. |
+| Vintage             | Number of Days, Customer has been associated with the company             |
+| Response            | 1 : Customer is interested, <br> 0 : Customer is not interested           |
 
 ### Objective:
 
